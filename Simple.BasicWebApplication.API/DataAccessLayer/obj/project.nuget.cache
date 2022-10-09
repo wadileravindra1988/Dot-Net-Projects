@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LsFc42HtevzT5S4l6/JNwMNCgSBEoAigbqffpxEGEx8uRDyPkE6wcX5LUA2q33eHxyKlNZ5tZ7091q65aOsg/g==",
+  "dgSpecHash": "zWfDA7q+MPQj88plHytSFxKvBh/MVVWOlboBJdbtR7IhvUlBGapqc1kChmVTV3DXmk+XA7SaALaMjZWlX0L64w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

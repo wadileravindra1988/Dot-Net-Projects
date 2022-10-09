@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\WebApplication.API\\WebApplication.API.csproj": {}
+    "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\WebApplication.API\\WebApplication.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\RAVINDRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\WebApplication.API\\WebApplication.API.csproj": {
+    "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\WebApplication.API\\WebApplication.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\WebApplication.API\\WebApplication.API.csproj",
+        "projectUniqueName": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\WebApplication.API\\WebApplication.API.csproj",
         "projectName": "WebApplication.API",
-        "projectPath": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\WebApplication.API\\WebApplication.API.csproj",
+        "projectPath": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\WebApplication.API\\WebApplication.API.csproj",
         "packagesPath": "C:\\Users\\RAVINDRA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\WebApplication.API\\obj\\",
+        "outputPath": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\WebApplication.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }

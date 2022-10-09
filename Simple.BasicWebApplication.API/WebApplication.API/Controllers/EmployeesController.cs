@@ -33,6 +33,7 @@ namespace WebApplication.API.Controllers
                     return StatusCode(StatusCodes.Status500InternalServerError,"Error in Retrving Data");
                 }    
             }
+       
         [HttpGet ("{id:int}") ]
         public async Task<ActionResult<Employee>> GetEmployee(int id)
         {
@@ -50,6 +51,7 @@ namespace WebApplication.API.Controllers
                 return StatusCode(StatusCodes.Status204NoContent, "No Data Found");
             }
         }
+        
         [HttpPost]
         public async Task<ActionResult<Employee>> CreateEmployee(Employee employee)
         {
@@ -108,5 +110,28 @@ namespace WebApplication.API.Controllers
                 return StatusCode(StatusCodes.Status204NoContent, "No Data Found");
             }
         }
+
+        [HttpGet ("{search}")]
+        // how to use this serach function : --> /api/employees/search?name=afroz
+        public async Task<ActionResult<IEnumerable<Employee>>> Search(string name)
+        {
+            try
+            {
+                var result = await _employeeRepository.Search(name);
+                if (result.Any())
+                {
+                    return Ok(result);
+                }
+                return NotFound();
+            }
+            catch (Exception)
+            {
+
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error while retriving data from databse");
+            }
+
+        }
+
+
     }
 }

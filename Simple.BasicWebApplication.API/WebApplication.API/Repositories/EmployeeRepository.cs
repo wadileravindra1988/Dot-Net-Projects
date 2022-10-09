@@ -58,5 +58,16 @@ namespace WebApplication.API.Repositories
             }
             return null;
         }
+
+        public async Task<IEnumerable<Employee>> Search(string name)
+        {
+            IQueryable<Employee> query = _DbContext.Employees;
+            if (!string.IsNullOrEmpty(name))
+            {
+                query = query.Where(a => a.Name.Contains(name));
+               
+            }
+            return await query.ToListAsync();
+        }
     }
 }

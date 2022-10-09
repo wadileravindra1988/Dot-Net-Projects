@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\RAVINDRA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RAVINDRA\\Desktop\\dotnetapis\\dotnetcorewebapi\\Simple.BasicWebApplication.API\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\RAVINDRA\\Desktop\\Dot Net learning Projects\\Dot-Net-learning-Projects\\Simple.BasicWebApplication.API\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

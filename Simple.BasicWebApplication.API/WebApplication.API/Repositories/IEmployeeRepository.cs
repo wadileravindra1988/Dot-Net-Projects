@@ -14,5 +14,6 @@ namespace WebApplication.API.Repositories
         Task<Employee> AddEmployee(Employee employee);
         Task<Employee> UpdateEmployee(Employee employee);
         Task<Employee>  DeleteEmployee(int Id);
+        Task<IEnumerable<Employee>> Search(string name);
     }
 }
