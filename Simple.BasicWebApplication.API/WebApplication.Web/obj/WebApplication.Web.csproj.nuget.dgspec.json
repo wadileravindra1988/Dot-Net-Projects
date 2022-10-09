@@ -106,6 +106,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration": {
               "target": "Package",
               "version": "[3.1.5, )"

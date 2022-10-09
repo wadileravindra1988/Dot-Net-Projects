@@ -111,3 +111,8 @@ C:\Users\RAVINDRA\Desktop\Dot Net learning Projects\Dot-Net-learning-Projects\Si
 C:\Users\RAVINDRA\Desktop\Dot Net learning Projects\Dot-Net-learning-Projects\Simple.BasicWebApplication.API\WebApplication.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\RAVINDRA\Desktop\Dot Net learning Projects\Dot-Net-learning-Projects\Simple.BasicWebApplication.API\WebApplication.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\RAVINDRA\Desktop\Dot Net learning Projects\Dot-Net-learning-Projects\Simple.BasicWebApplication.API\WebApplication.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RAVINDRA\Desktop\Dot Net learning Projects\Dot-Net-learning-Projects\Simple.BasicWebApplication.API\WebApplication.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\RAVINDRA\Desktop\Dot Net learning Projects\Dot-Net-learning-Projects\Simple.BasicWebApplication.API\WebApplication.Web\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\RAVINDRA\Desktop\Dot Net learning Projects\Dot-Net-learning-Projects\Simple.BasicWebApplication.API\WebApplication.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\RAVINDRA\Desktop\Dot Net learning Projects\Dot-Net-learning-Projects\Simple.BasicWebApplication.API\WebApplication.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\RAVINDRA\Desktop\Dot Net learning Projects\Dot-Net-learning-Projects\Simple.BasicWebApplication.API\WebApplication.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
